@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Apple iPhone 13",
+    "price": "799",
+    "description": "The iPhone 13 features a sleek design with the A15 Bionic chip for high performance and 5G capability.",
+    "rating": "4.8",
+    "images": [
+      {
+        "image": "https://example.com/iphone13-front.jpg"
+      },
+      {
+        "image": "https://example.com/iphone13-back.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Apple Store",
+    "stock": "100",
+    "numOfRevies": "1500",
+    "createDate": "2024-10-01T12:00:00Z"
+  },
+  {
+    "name": "Samsung Galaxy S21",
+    "price": "699",
+    "description": "The Samsung Galaxy S21 is equipped with an Exynos 2100 processor and a triple camera setup.",
+    "rating": "4.5",
+    "images": [
+      {
+        "image": "https://example.com/galaxy-s21-front.jpg"
+      },
+      {
+        "image": "https://example.com/galaxy-s21-back.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Samsung Official",
+    "stock": "200",
+    "numOfRevies": "1200",
+    "createDate": "2024-09-15T08:30:00Z"
+  },
+  {
+    "name": "Sony WH-1000XM5 Headphones",
+    "price": "299",
+    "description": "Noise-canceling over-ear headphones with a sleek design and premium sound quality.",
+    "rating": "4.9",
+    "images": [
+      {
+        "image": "https://example.com/sony-headphones.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Sony Store",
+    "stock": "50",
+    "numOfRevies": "600",
+    "createDate": "2024-08-20T14:15:00Z"
+  },
+  {
+    "name": "Dell XPS 13 Laptop",
+    "price": "999",
+    "description": "The Dell XPS 13 offers a high-performance Intel Core i7 processor and an edge-to-edge display.",
+    "rating": "4.7",
+    "images": [
+      {
+        "image": "https://example.com/dell-xps13-front.jpg"
+      }
+    ],
+    "category": "Computers",
+    "seller": "Dell Official",
+    "stock": "75",
+    "numOfRevies": "800",
+    "createDate": "2024-10-05T09:45:00Z"
+  },
+  
+  {
+    "name": "HP Spectre x360 Laptop",
+    "price": "1399",
+    "description": "A premium 2-in-1 laptop with a stunning design, powerful performance, and a long battery life.",
+    "rating": "4.6",
+    "images": [
+      {
+        "image": "https://example.com/hp-spectre-x360.jpg"
+      }
+    ],
+    "category": "Computers",
+    "seller": "HP Store",
+    "stock": "40",
+    "numOfRevies": "450",
+    "createDate": "2024-09-25T11:00:00Z"
+  },
+  {
+    "name": "Nest Learning Thermostat",
+    "price": "249",
+    "description": "A smart thermostat that learns your habits and helps save energy by adjusting temperatures automatically.",
+    "rating": "4.8",
+    "images": [
+      {
+        "image": "https://example.com/nest-thermostat.jpg"
+      }
+    ],
+    "category": "Home Automation",
+    "seller": "Nest",
+    "stock": "150",
+    "numOfRevies": "300",
+    "createDate": "2024-08-30T10:30:00Z"
+  },
+  {
+    "name": "Fitbit Charge 5",
+    "price": "179",
+    "description": "A fitness tracker that helps monitor heart rate, sleep, and activity levels with built-in GPS.",
+    "rating": "4.5",
+    "images": [
+      {
+        "image": "https://example.com/fitbit-charge5.jpg"
+      }
+    ],
+    "category": "Wearables",
+    "seller": "Fitbit",
+    "stock": "200",
+    "numOfRevies": "1000",
+    "createDate": "2024-09-10T13:15:00Z"
+  }
+
+
+]
